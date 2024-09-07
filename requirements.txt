@@ -1,7 +1,7 @@
 cloudpickle
 diffdist==0.1
 fast_pytorch_kmeans
-fire
+fire==0.1
 matplotlib
 numpy==1.22.4
 pycocotools==2.0.6

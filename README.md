@@ -1,4 +1,4 @@
-# Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector
+# Paper Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector
 
 
 - [**News!**] 24-07-01: Our work is accepted by ECCV24. [Arxiv Paper](https://arxiv.org/pdf/2402.03094) can be found here. 🎉 
