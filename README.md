@@ -70,16 +70,3 @@ bash main_results.sh
 # Acknowledgement
 
 Our work is built upon [DE-ViT](https://github.com/mlzxy/devit), and also we use the codes of [ViTDeT](https://github.com/ViTAE-Transformer/ViTDet), [Detic](https://github.com/facebookresearch/Detic) to test them under this new benchmark. Thanks for their work.
-
-# Citation
-If you find our paper or this code useful for your research, please considering cite us (●°u°●)」:
-```
-@article{fu2024cross,
-  title={Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector},
-  author={Fu, Yuqian and Wang, Yu and Pan, Yixuan and Huai, Lian and Qiu, Xingyu and Shangguan, Zeyu and Liu, Tong and Kong, Lingjie and Fu, Yanwei and Van Gool, Luc and others},
-  journal={arXiv preprint arXiv:2402.03094},
-  year={2024}
-}
-```
-
-
